@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 
-label = sg.Text("Let's Play KBC!!!!")
+label = sg.Text("***** Let's Play KBC ******")
 addBtn = sg.Button("Add")
 editBtn = sg.Button("Edit Me")
 submitBtn = sg.Button("Submit Btn")
